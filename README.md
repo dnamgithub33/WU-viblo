@@ -14,5 +14,12 @@
         <td>E</td>
 		<td>100</td>
 	</tr>
+    	<tr>
+		<td><a href="https://ctf.viblo.asia/puzzles/long-leg-a3o4big1ogm">long leg</a></td>
+		<td>Flag{y0u_g0t_m3}</td>
+        <td><a href="./long%20leg/long_leg.md">here</a></td>
+        <td>E</td>
+		<td>100</td>
+	</tr>
 	
 </table>
