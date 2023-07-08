@@ -29,4 +29,12 @@
         <td>E</td>
 		<td>100</td>
 	</tr>
+	</tr>
+    	<tr>
+		<td><a href="https://ctf.viblo.asia/puzzles/hide-and-seek-5frprwm4jik">Hide and seek</a></td>
+		<td>Flag{d3v3lop3r_t00l_1s_c00l}</td>
+        <td><a href="./Hide%20and%20seek/wu.md">here</a></td>
+        <td>E</td>
+		<td>100</td>
+	</tr>
 </table>
